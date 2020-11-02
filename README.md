@@ -2,7 +2,7 @@
 Kaggle - DeepFake Detection Challenge - Bronze Medal Solution
 
 Use the following Kaggle API to download the dataset:<br/>
-kaggle competitions download <ins>-c deepfake-detection-challenge<ins/>
+<ins>kaggle competitions download -c deepfake-detection-challenge<ins/>
 
 This competition is closed for submissions. Participants' selected code submissions were re-run by the host on a privately-held test set and the private leaderboard results have been finalized. Late submissions will not be opened, due to an inability to replicate the unique design of this competition.
 
