@@ -1,6 +1,9 @@
 # DeepFake-Detection-Challenge
 Kaggle - DeepFake Detection Challenge - Bronze Medal Solution
 
+Use the following Kaggle API to download the dataset:<br/>
+kaggle competitions download <ins>-c deepfake-detection-challenge<ins/>
+
 This competition is closed for submissions. Participants' selected code submissions were re-run by the host on a privately-held test set and the private leaderboard results have been finalized. Late submissions will not be opened, due to an inability to replicate the unique design of this competition.
 
 Deepfake techniques, which present realistic AI-generated videos of people doing and saying fictional things, have the potential to have a significant impact on how people determine the legitimacy of information presented online. These content generation and modification technologies may affect the quality of public discourse and the safeguarding of human rights—especially given that deepfakes may be used maliciously as a source of misinformation, manipulation, harassment, and persuasion. Identifying manipulated media is a technically demanding and rapidly evolving challenge that requires collaborations across the entire tech industry and beyond.
